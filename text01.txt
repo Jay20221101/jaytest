@@ -8,6 +8,7 @@ bugfix04
 bugfix05
 bugfix06
 bugfix07
+bugfix08
 update01
 update02
 update03
